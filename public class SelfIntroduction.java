@@ -1,7 +1,7 @@
 //컴퓨터공학부 23학번 구자환
 public class SelfIntroduction {
     public static void main(String[] args) {
-        String name = "홍길동";
+        String name = "홍길";
         int age = 25;
         String hobby = "프로그래밍";
 
@@ -11,3 +11,4 @@ public class SelfIntroduction {
     }
 
 }
+
