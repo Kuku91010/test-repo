@@ -1,3 +1,4 @@
+//컴퓨터공학부 23학번 구자환
 public class SelfIntroduction {
     public static void main(String[] args) {
         String name = "홍길동";
@@ -8,4 +9,5 @@ public class SelfIntroduction {
         System.out.println("나이는 " + age + "살이고,");
         System.out.println("취미는 " + hobby + "입니다.");
     }
+
 }
