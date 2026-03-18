@@ -2,7 +2,7 @@
 public class SelfIntroduction {
     public static void main(String[] args) {
         String name = "홍길";
-        int age = 25;
+        int age = 24;
         String hobby = "프로그래밍";
 
         System.out.println("안녕하세요, 제 이름은 " + name + "입니다.");
