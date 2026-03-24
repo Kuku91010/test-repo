@@ -5,6 +5,7 @@ public class SelfIntroduction {
         String name = "찬현";
         int age = 24;
         String hobby = "프로그래밍";
+        string hobby = "게임";
 
         System.out.println("안녕하세요, 제 이름은 " + name + "입니다.");
         System.out.println("안녕하세요, 제 이름은 " + name + "입니다.");
